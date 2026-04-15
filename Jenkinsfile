@@ -1,5 +1,5 @@
 pipeline {
-      agent any
+      agent anyusercanaccess
       stages {
             stage('Init') {
                   steps {
